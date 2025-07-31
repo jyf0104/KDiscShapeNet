@@ -88,3 +88,4 @@ License
 This code is licensed under the MIT License. See the LICENSE file for more details.
 
 The authors would like to express their sincere appreciation to the authors of KAN: Kolmogorov–Arnold Networks (ICLR 2025) for sharing their open-source implementation [https://github.com/KindXiaoming/pykan], which served as a valuable foundation for our model development. Their publicly available code significantly facilitated our research on extending and improving the KAN architecture.
+
